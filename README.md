@@ -1,6 +1,6 @@
 # chat
 
-A new Flutter project.
+A chat mobile application built using MVVM architecture,firebase auth,firebase firestore, provider state management.
 
 ## Getting Started
 
