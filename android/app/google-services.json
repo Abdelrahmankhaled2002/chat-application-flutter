@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365412883358",
+    "project_id": "finalcahtapp",
+    "storage_bucket": "finalcahtapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365412883358:android:cf120a2c56fea8f9ac548f",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365412883358-34rrn44qkfortfhehrqt1ddelq75jp9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCokWi59-zoz83XNe97GpvsEyB9pQUpJRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365412883358-34rrn44qkfortfhehrqt1ddelq75jp9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
